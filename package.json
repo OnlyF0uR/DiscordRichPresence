@@ -1,0 +1,25 @@
+{
+  "name": "discordrichpresence",
+  "version": "1.0.0",
+  "description": "Simple customizable DiscordRichPresence",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerskisnow/DiscordRichPresence.git"
+  },
+  "keywords": [
+    "discordrichpresence"
+  ],
+  "author": "jerskisnow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerskisnow/DiscordRichPresence/issues"
+  },
+  "homepage": "https://github.com/jerskisnow/DiscordRichPresence#readme",
+  "dependencies": {
+    "discord-rich-presence": "0.0.7"
+  }
+}
