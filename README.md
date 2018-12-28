@@ -10,3 +10,5 @@ Simple customizable DiscordRichPresence
 4. Run: "node index.js" or "npm start"
 5. Have fun!
 ```
+
+p.s. You can use [nexe](https://www.npmjs.com/package/nexe) to create a executable file.
